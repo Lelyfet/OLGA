@@ -2,3 +2,5 @@ print ("Hello world!")
 print ("Hello all")
 
 добавим строку
+
+а где китти?
